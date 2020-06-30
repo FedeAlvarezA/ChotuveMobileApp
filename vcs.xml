@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/ChutuveG3/ChotuveMobileApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://arredo@dev.azure.com/arredo/in-store-android/_git/in-store-android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="arredo" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\falonso\AndroidStudioProjects" />
