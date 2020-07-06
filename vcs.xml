@@ -18,6 +18,10 @@
           <option name="url" value="http://dev.azure.com" />
           <option name="userName" value="arredo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://arredo@dev.azure.com/arredo/Digitalizaci%C3%B3n%20Arredo/_git/in-store-android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\falonso\AndroidStudioProjects" />
